@@ -1,0 +1,141 @@
+---
+title: "what-I-learned-at-CMU"
+author: "Rick Gilmore"
+date: "May 16, 2016"
+css: gilmore.css
+output: 
+  ioslides_presentation:
+    widescreen: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## CMU ≠ {.build}
+
+<div class="centered">
+<img src="https://3dprint.com/wp-content/uploads/2015/10/2000px-Central_Michigan_University_wordmark.svg_.png" height=450px/>
+</div>
+
+---
+
+<div class="centered">
+**But the world doesn't know that.**
+</div>
+
+## Put the emPHAsis on the right sylLABle {.flexbox .vcenter .build}
+
+<div class="centered">
+Car**NE**gie Mellon
+</div>
+
+---
+
+<div class="centered">
+**But the world doesn't know that, either.**
+</div>
+
+## People like the Carnegie tartan {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://www.cmu.edu/marcom/brand-guidelines/images/plaid_digital.png" width=700px/>
+</div>
+
+## Ken Koedinger can really hit a softball {.flexbox .vcenter}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/20060825_Barry_Bonds_follow_through.jpg" height=500px/>
+</div>
+
+## ACT-R does not mean {.flexbox .vcenter .build .bigger}
+
+<div class="centered">
+**A** **C**ognitive **T**heory
+</div>
+
+## MacMail 0.9 was good. {.bigger}
+
+> - So was Word 5.1a.
+> - Never upgrade.
+
+## Ken Koedinger can really throw a football. {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://sports.cbsimg.net/images/blogs/Tom-Brady-TD-pass-Panthers-08-27-15.jpg" height=450px>
+</div>
+
+## Think or thwim is not a bad approach to mentoring
+
+<div class="centered">
+<img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
+</div>
+
+## GUI vs. command line ~ {.build}
+
+> - Mac vs. Windows vs. *nix
+> - Blue state vs. Red state
+> - Nativism vs. empiricism
+> - Python vs. R
+> - JavaScript vs. a real language
+
+## The World Wide Web is really a thing {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg">
+
+<http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg>
+</div>
+
+## Ken Koedinger can ... {.flexbox .vcenter .build .bigger}
+
+**And you probably can't.**
+
+## The Baker Bunch {.flexbox .vcenter}
+
+<img src="img/brady-bunch.jpg" height=500px>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FnK40KA2LM" frameborder="0" allowfullscreen></iframe>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story of a neural network</br>
+Who was fighting for street cred in the hood.</br>
+All the models had their productions.</br>
+The network didn't feel good.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story, of SOARing models,</br>
+that were 'splainin' cognition on their own.</br>
+They were ACT*Rs in a play for Bobby Klatzky.</br>
+But, they were all alone.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+'Til the one day when the network reached its threshold.</br>
+And the Psych-o's knew that it was much more than free lunch.</br>
+That these geeks were really close as family.</br>
+That's the way we became the Baker Bunch.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+The Baker Bunch, The Baker Bunch.</br>
+That's the way we became the Baker Bunch.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter}
+
+<img src="img/baker-bunch.jpg" height=500px>
+
+
+
