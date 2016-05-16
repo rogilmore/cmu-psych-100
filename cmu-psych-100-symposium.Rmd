@@ -62,10 +62,10 @@ Car**NE**gie Mellon
 **A** **C**ognitive **T**heory
 </div>
 
-## MacMail 0.9 was good. {.bigger}
+## MacMail 0.9 was good {.bigger}
 
-> - So was Word 5.1a.
-> - Never upgrade.
+> - So was Word 5.1a
+> - Never upgrade
 
 ## Ken Koedinger can really throw a football {.flexbox .vcenter}
 
@@ -82,7 +82,9 @@ Car**NE**gie Mellon
 ## Ken Koedinger can... {.bigger .build}
 
 <div class="centered">
-better than you or I, I'm sure.
+do the can-can, better than a toucan can.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Danseuses_cancan.jpg" width=600px>
 </div>
 
 ## GUI vs. command line ~
