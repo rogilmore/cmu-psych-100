@@ -7,6 +7,7 @@ css: gilmore.css
 output: 
   ioslides_presentation:
     widescreen: TRUE
+    logo: img/cmu-psych-100.jpg
 ---
 
 ```{r setup, include=FALSE}
@@ -94,9 +95,13 @@ Car**NE**gie Mellon
 <img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
 </div>
 
-## The Baker Bunch {.flexbox .vcenter}
+## The Brady Bunch {.flexbox .vcenter}
 
 <img src="img/brady-bunch.jpg" height=500px>
+
+## The *Baker* Bunch {.flexbox .vcenter}
+
+<img src="img/baker-bunch.jpg" height=500px>
 
 ---
 
