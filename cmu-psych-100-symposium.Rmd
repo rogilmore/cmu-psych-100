@@ -87,9 +87,11 @@ Car**NE**gie Mellon
 <http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg>
 </div>
 
-## Ken Koedinger can ... {.flexbox .vcenter .build .bigger}
+## Gradient descent is {.flexbox .vcenter .build .bigger}
 
-**And you probably can't.**
+<div class="centered">
+<img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
+</div>
 
 ## The Baker Bunch {.flexbox .vcenter}
 
@@ -136,6 +138,3 @@ That's the way we became the Baker Bunch.</br>
 ## The Baker Bunch {.flexbox .vcenter}
 
 <img src="img/baker-bunch.jpg" height=500px>
-
-
-
