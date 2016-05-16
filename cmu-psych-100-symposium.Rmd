@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-**But the world doesn't know that.**
+**But, the world doesn't know that.**
 </div>
 
 ## Put the emPHAsis on the right sylLABle {.flexbox .vcenter .build}
@@ -35,7 +35,13 @@ Car**NE**gie Mellon
 ---
 
 <div class="centered">
-**But the world doesn't know that, either.**
+**The world doesn't know that, either.**
+</div>
+
+## But, Google does
+
+<div class="centered">
+<img src="img/google-cmu.jpg" height=500px>
 </div>
 
 ## People like the Carnegie tartan {.flexbox .vcenter}
@@ -61,7 +67,7 @@ Car**NE**gie Mellon
 > - So was Word 5.1a.
 > - Never upgrade.
 
-## Ken Koedinger can really throw a football. {.flexbox .vcenter}
+## Ken Koedinger can really throw a football {.flexbox .vcenter}
 
 <div class="centered">
 <img src="http://sports.cbsimg.net/images/blogs/Tom-Brady-TD-pass-Panthers-08-27-15.jpg" height=450px>
@@ -73,6 +79,12 @@ Car**NE**gie Mellon
 <img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
 </div>
 
+## Ken Koedinger can... {.bigger .build}
+
+<div class="centered">
+better than you or I, I'm sure.
+</div>
+
 ## GUI vs. command line ~
 
 > - Mac vs. Windows vs. *nix
@@ -81,15 +93,13 @@ Car**NE**gie Mellon
 > - Python vs. R
 > - JavaScript vs. a real language
 
-## The World Wide Web is really a thing {.flexbox .vcenter}
+## This World Wide Web is really a thing {.flexbox .vcenter}
 
 <div class="centered">
 <img src="http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg">
-
-<http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg>
 </div>
 
-## Gradient descent is {.flexbox .vcenter .build .bigger}
+## Gradient descent means {.flexbox .vcenter .build .bigger}
 
 <div class="centered">
 <img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
@@ -99,7 +109,7 @@ Car**NE**gie Mellon
 
 <img src="img/brady-bunch.jpg" height=500px>
 
-## The *Baker* Bunch {.flexbox .vcenter}
+## The ~~Brady~~ Baker Bunch {.flexbox .vcenter}
 
 <img src="img/baker-bunch.jpg" height=500px>
 
@@ -131,7 +141,7 @@ But, they were all alone.</br>
 'Til the one day when the network reached its threshold.</br>
 And the Psych-o's knew that it was much more than free lunch.</br>
 That these geeks were really close as family.</br>
-That's the way we became the Baker Bunch.</br>
+That's the way we all became the Baker Bunch.</br>
 </div>
 
 ## The Baker Bunch {.flexbox .vcenter .bigger}
@@ -144,3 +154,9 @@ That's the way we became the Baker Bunch.</br>
 ## The Baker Bunch {.flexbox .vcenter}
 
 <img src="img/baker-bunch.jpg" height=500px>
+
+---
+
+<div class="centered">
+<http://github.com/rogilmore/cmu-psych-100/>
+</div>
