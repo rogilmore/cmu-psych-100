@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="img/deb-ellie.jpg" height=500px>
 </div>
 
-## And Happy Valley a great place to raise them
+## And Happy Valley to raise them
 
 <div class="centered">
 <img src="http://www.mtnittanyumc.org/images/DSC_0371.JPG" height=500px>
@@ -52,7 +52,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <http://imaging.psu.edu>
 </div>
 
-## Just make sure to go before they put you in the magnet
+## Just make sure to go before...
 
 <div class="centered">
 <img src="http://ak-hdl.buzzfed.com/static/2015-06/1/9/enhanced/webdr14/anigif_enhanced-27066-1433165196-3.gif">
@@ -60,11 +60,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Sorry, Jon Cohen. :(
 
-## Some assistantship responsibilities continue...
+---
 
 <iframe src="http://databrary.org"></iframe>
 
-## CMU ≠ {.build}
+## CMU ≠
 
 <div class="centered">
 <img src="https://3dprint.com/wp-content/uploads/2015/10/2000px-Central_Michigan_University_wordmark.svg_.png" height=450px/>
@@ -82,7 +82,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="img/google-cmu.jpg" height=500px>
 </div>
 
-## Put the emPHAsis on the right sylLABle {.flexbox .vcenter .build}
+## Put the emPHAsis on the right sylLABle {.flexbox .vcenter}
 
 <div class="centered">
 Car**NE**gie Mellon
@@ -100,13 +100,13 @@ Car**NE**gie Mellon
 <img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
 </div>
 
-## The essence of 'gradient descent' {.flexbox .vcenter .build .bigger}
+## The essence of 'gradient descent' {.flexbox .vcenter}
 
 <div class="centered">
 <img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
 </div>
 
-## ACT-R does not mean {.flexbox .vcenter .build .bigger}
+## ACT-R does not mean {.flexbox .vcenter .bigger}
 
 <div class="centered">
 **A** **C**ognitive **T**heory
@@ -117,13 +117,14 @@ Car**NE**gie Mellon
 > - So was Word 5.1a
 > - Never upgrade
 
-## GUI vs. command line ~
+## Avoid holy wars
 
-> - Mac vs. Windows vs. *nix
-> - Blue state vs. Red state
-> - Nativism vs. empiricism
-> - Python vs. R
-> - JavaScript vs. a real language
+- GUI vs. command line
+- Mac vs. Windows vs. *nix
+- Blue state vs. Red state
+- Nativism vs. empiricism
+- Python vs. R
+- JavaScript vs. a real language
 
 ## From simple beginnings...
 
