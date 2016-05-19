@@ -1,5 +1,5 @@
 ---
-title: "what-I-learned-at-CMU"
+title: "what-I-learned-at-CMU-and-subsequently"
 author: "Rick Gilmore"
 date: "May 16, 2016"
 css: gilmore.css
@@ -14,6 +14,57 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## Pittsburgh is a great place to have kids...
+
+<div class="centered">
+<img src="img/deb-ellie.jpg" height=500px>
+</div>
+
+## But, so is Happy Valley
+
+<div class="centered">
+<img src="http://www.mtnittanyumc.org/images/DSC_0371.JPG" height=500px>
+</div>
+
+## Along the way...
+
+<div class="centered">
+<img src="https://arboretum.psu.edu/wp-content/uploads/2014/05/2006-10-23-Autumn-on-trail-4-Reeder.jpg" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://raw.githubusercontent.com/rogilmore/state-college-precinct-26/master/votes-cast.png" height=550px>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/gypsy.jpg" height=500px>
+</div>
+
+## Brain imaging is totally tubular
+
+<div class="centered">
+<img src="http://imaging.psu.edu/sites/sleic/files/lion_3T.jpg" height=400px>
+
+<http://imaging.psu.edu>
+</div>
+
+## Just make sure to go before they put you in the magnet {.build}
+
+<div class="centered">
+<img src="http://ak-hdl.buzzfed.com/static/2015-06/1/9/enhanced/webdr14/anigif_enhanced-27066-1433165196-3.gif">
+</div>
+
+- Sorry, Jon Cohen. :(
+
+## From a teaching assistantship to...
+
+<iframe src="http://databrary.org"></iframe>
+
 ## CMU ≠ {.build}
 
 <div class="centered">
@@ -23,7 +74,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <div class="centered">
-**But, the world doesn't know that.**
+**The world doesn't seem to know that.**
+</div>
+
+## But, Google does...
+
+<div class="centered">
+<img src="img/google-cmu.jpg" height=500px>
 </div>
 
 ## Put the emPHAsis on the right sylLABle {.flexbox .vcenter .build}
@@ -38,12 +95,6 @@ Car**NE**gie Mellon
 **The world doesn't know that, either.**
 </div>
 
-## But, Google does
-
-<div class="centered">
-<img src="img/google-cmu.jpg" height=500px>
-</div>
-
 ## People like the Carnegie tartan {.flexbox .vcenter}
 
 <div class="centered">
@@ -54,6 +105,24 @@ Car**NE**gie Mellon
 
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/20060825_Barry_Bonds_follow_through.jpg" height=500px/>
+</div>
+
+## Ken Koedinger can really throw a football {.flexbox .vcenter}
+
+<div class="centered">
+<img src="http://sports.cbsimg.net/images/blogs/Tom-Brady-TD-pass-Panthers-08-27-15.jpg" height=450px>
+</div>
+
+## Ken Koedinger can...
+
+>- And you probably can't
+>- So don't try
+>- You'll just embarrass yourself
+
+## Think or thwim is not a bad approach to mentoring students
+
+<div class="centered">
+<img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
 </div>
 
 ## ACT-R does not mean {.flexbox .vcenter .build .bigger}
@@ -67,26 +136,6 @@ Car**NE**gie Mellon
 > - So was Word 5.1a
 > - Never upgrade
 
-## Ken Koedinger can really throw a football {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://sports.cbsimg.net/images/blogs/Tom-Brady-TD-pass-Panthers-08-27-15.jpg" height=450px>
-</div>
-
-## Think or thwim is not a bad approach to mentoring
-
-<div class="centered">
-<img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
-</div>
-
-## Ken Koedinger can... {.bigger .build}
-
-<div class="centered">
-do the can-can, better than a toucan can.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Danseuses_cancan.jpg" width=600px>
-</div>
-
 ## GUI vs. command line ~
 
 > - Mac vs. Windows vs. *nix
@@ -95,23 +144,40 @@ do the can-can, better than a toucan can.
 > - Python vs. R
 > - JavaScript vs. a real language
 
+## "Just plot the data"
+
+<div class="centered">
+<img src="https://developer.r-project.org/Logo/Rlogo-1.png" width=300px>
+</div>
+
+- Thanks, Mike Meyer!
+- Props to the S+/Emacs implementation
+
 ## This World Wide Web is really a thing {.flexbox .vcenter}
 
 <div class="centered">
 <img src="http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg">
 </div>
 
-## Gradient descent means {.flexbox .vcenter .build .bigger}
+## The essence of 'gradient descent' {.flexbox .vcenter .build .bigger}
 
 <div class="centered">
 <img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
 </div>
 
+----
+
+<iframe src="http://www.cnbc.cmu.edu/graduate-training-mainmenu-66/cnbc-grad-training-program-mainmenu-123"></iframe>
+
 ## The Brady Bunch {.flexbox .vcenter}
 
 <img src="img/brady-bunch.jpg" height=500px>
 
-## The ~~Brady~~ Baker Bunch {.flexbox .vcenter}
+## The ~~Brady~~ Brainy? Bunch {.flexbox .vcenter}
+
+<img src="img/brady-bunch.jpg" height=500px>
+
+## The *Baker* Bunch {.flexbox .vcenter}
 
 <img src="img/baker-bunch.jpg" height=500px>
 
@@ -160,5 +226,8 @@ That's the way we became the Baker Bunch.</br>
 ---
 
 <div class="centered">
-<http://github.com/rogilmore/cmu-psych-100/>
+<http://github.com/rogilmore/cmu-psych-100/></br>
+<http://gilmore-lab.github.io/></br>
+<http://databrary.org></br>
+<http://rick-gilmore.com/>
 </div>
