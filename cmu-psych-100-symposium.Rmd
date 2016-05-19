@@ -1,5 +1,5 @@
 ---
-title: "what-I-learned-at-CMU-and-subsequently"
+title: "what-I-learned-at-CMU"
 author: "Rick Gilmore"
 date: "May 16, 2016"
 css: gilmore.css
@@ -14,32 +14,31 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
 ## Pittsburgh is a great place to have kids...
 
 <div class="centered">
 <img src="img/deb-ellie.jpg" height=500px>
 </div>
 
-## But, so is Happy Valley
+## And Happy Valley a great place to raise them
 
 <div class="centered">
 <img src="http://www.mtnittanyumc.org/images/DSC_0371.JPG" height=500px>
 </div>
 
-## Along the way...
+---
 
 <div class="centered">
 <img src="https://arboretum.psu.edu/wp-content/uploads/2014/05/2006-10-23-Autumn-on-trail-4-Reeder.jpg" height=500px>
 </div>
 
-----
+---
 
 <div class="centered">
 <img src="https://raw.githubusercontent.com/rogilmore/state-college-precinct-26/master/votes-cast.png" height=550px>
 </div>
 
-----
+---
 
 <div class="centered">
 <img src="img/gypsy.jpg" height=500px>
@@ -53,7 +52,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <http://imaging.psu.edu>
 </div>
 
-## Just make sure to go before they put you in the magnet {.build}
+## Just make sure to go before they put you in the magnet
 
 <div class="centered">
 <img src="http://ak-hdl.buzzfed.com/static/2015-06/1/9/enhanced/webdr14/anigif_enhanced-27066-1433165196-3.gif">
@@ -61,7 +60,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Sorry, Jon Cohen. :(
 
-## From a teaching assistantship to...
+## Some assistantship responsibilities continue...
 
 <iframe src="http://databrary.org"></iframe>
 
@@ -95,34 +94,16 @@ Car**NE**gie Mellon
 **The world doesn't know that, either.**
 </div>
 
-## People like the Carnegie tartan {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://www.cmu.edu/marcom/brand-guidelines/images/plaid_digital.png" width=700px/>
-</div>
-
-## Ken Koedinger can really hit a softball {.flexbox .vcenter}
-
-<div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/20060825_Barry_Bonds_follow_through.jpg" height=500px/>
-</div>
-
-## Ken Koedinger can really throw a football {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://sports.cbsimg.net/images/blogs/Tom-Brady-TD-pass-Panthers-08-27-15.jpg" height=450px>
-</div>
-
-## Ken Koedinger can...
-
->- And you probably can't
->- So don't try
->- You'll just embarrass yourself
-
-## Think or thwim is not a bad approach to mentoring students
+## Think or thwim mentoring has its virtues
 
 <div class="centered">
 <img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
+</div>
+
+## The essence of 'gradient descent' {.flexbox .vcenter .build .bigger}
+
+<div class="centered">
+<img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
 </div>
 
 ## ACT-R does not mean {.flexbox .vcenter .build .bigger}
@@ -144,28 +125,7 @@ Car**NE**gie Mellon
 > - Python vs. R
 > - JavaScript vs. a real language
 
-## "Just plot the data"
-
-<div class="centered">
-<img src="https://developer.r-project.org/Logo/Rlogo-1.png" width=300px>
-</div>
-
-- Thanks, Mike Meyer!
-- Props to the S+/Emacs implementation
-
-## This World Wide Web is really a thing {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://thefabweb.com/wp-content/uploads/2011/12/60seconds-2.jpg">
-</div>
-
-## The essence of 'gradient descent' {.flexbox .vcenter .build .bigger}
-
-<div class="centered">
-<img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
-</div>
-
-----
+## From simple beginnings...
 
 <iframe src="http://www.cnbc.cmu.edu/graduate-training-mainmenu-66/cnbc-grad-training-program-mainmenu-123"></iframe>
 
@@ -173,11 +133,7 @@ Car**NE**gie Mellon
 
 <img src="img/brady-bunch.jpg" height=500px>
 
-## The ~~Brady~~ Brainy? Bunch {.flexbox .vcenter}
-
-<img src="img/brady-bunch.jpg" height=500px>
-
-## The *Baker* Bunch {.flexbox .vcenter}
+## The ~~Brady~~ *Baker* Bunch {.flexbox .vcenter}
 
 <img src="img/baker-bunch.jpg" height=500px>
 
@@ -188,7 +144,7 @@ Car**NE**gie Mellon
 ## The Baker Bunch {.flexbox .vcenter .bigger}
 
 <div class="centered">
-Here's the story of a neural network</br>
+**Here's the story of a neural network**</br>
 Who was fighting for street cred in the hood.</br>
 All the models had their productions.</br>
 The network didn't feel good.</br>
@@ -197,26 +153,108 @@ The network didn't feel good.</br>
 ## The Baker Bunch {.flexbox .vcenter .bigger}
 
 <div class="centered">
-Here's the story, of SOARing models,</br>
+Here's the story of a neural network</br>
+**Who was fighting for street cred in the hood.**</br>
+All the models had their productions.</br>
+The network didn't feel good.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story of a neural network</br>
+Who was fighting for street cred in the hood.</br>
+**All the models had their productions.**</br>
+The network didn't feel good.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story of a neural network</br>
+Who was fighting for street cred in the hood.</br>
+All the models had their productions.</br>
+**The network didn't feel good.**</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+**Here's the story, of SOARing frameworks**</br>
 that were 'splainin' cognition on their own.</br>
-They were ACT*Rs in a play for Bobby Klatzky.</br>
+Just ACT-Rs in a play for Bobby Klatzky.</br>
 But, they were all alone.</br>
 </div>
 
 ## The Baker Bunch {.flexbox .vcenter .bigger}
 
 <div class="centered">
-'Til the one day when the network reached its threshold.</br>
-And the Psych-o's knew that it was much more than free lunch.</br>
-That these geeks were really close as family.</br>
-That's the way we all became the Baker Bunch.</br>
+Here's the story, of SOARing frameworks</br>
+**that were 'splainin' cognition on their own.**</br>
+Just ACT-Rs in a play for Bobby Klatzky.</br>
+But, they were all alone.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story, of SOARing frameworks</br>
+that were 'splainin' cognition on their own.</br>
+**Just ACT-Rs in a play for Bobby Klatzky.**</br>
+But, they were all alone.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+Here's the story, of SOARing frameworks</br>
+that were 'splainin' cognition on their own.</br>
+Just ACT-Rs in a play for Bobby Klatzky.</br>
+**But, they were all alone.**</br>
+</div>
+
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+**'Til the one day when the network reached its threshold.**</br>
+And the CPUs ran out of things to crunch.</br>
+The geeks saw colleagues as their family.</br>
+That's how we all became the Baker Bunch.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+'Til the one day when the network reached its threshold,</br>
+**And the CPUs ran out of things to crunch.**</br>
+The geeks saw colleagues as their family.</br>
+That's how we all became the Baker Bunch.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+'Til the one day when the network reached its threshold,</br>
+And the CPUs ran out of things to crunch.</br>
+**The geeks saw colleagues as their family.**</br>
+That's how we all became the Baker Bunch.</br>
+</div>
+
+## The Baker Bunch {.flexbox .vcenter .bigger}
+
+<div class="centered">
+'Til the one day when the network reached its threshold,</br>
+And the CPUs ran out of things to crunch.</br>
+The geeks saw colleagues as their family.</br>
+**That's how we all became the Baker Bunch.**</br>
 </div>
 
 ## The Baker Bunch {.flexbox .vcenter .bigger}
 
 <div class="centered">
 The Baker Bunch, The Baker Bunch.</br>
-That's the way we became the Baker Bunch.</br>
+That's the way we all became the Baker Bunch.</br>
 </div>
 
 ## The Baker Bunch {.flexbox .vcenter}
