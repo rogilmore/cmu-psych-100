@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="http://www.mtnittanyumc.org/images/DSC_0371.JPG" height=500px>
 </div>
 
-## ...a great place to raise them
+## ...is a great place to raise them
 
 <div class="centered">
 <img src="img/deb-ellie.jpg" height=500px>
@@ -36,21 +36,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<div class="centered">
-<img src="https://arboretum.psu.edu/wp-content/uploads/2014/05/2006-10-23-Autumn-on-trail-4-Reeder.jpg" height=500px>
-</div>
-
----
-
-<div class="centered">
-<img src="https://raw.githubusercontent.com/rogilmore/state-college-precinct-26/master/votes-cast.png" height=550px>
-</div>
-
----
-
-<div class="centered">
-<img src="img/gypsy.jpg" height=500px>
-</div>
+<img src="http://www.neuroscience.cam.ac.uk/Uploads/MarkJohnson.jpg" height=201px>
+<img src="http://www.cmu.edu/dietrich/behrmannlab/marlene_behrmann_201x201.jpg">
+<img src="http://www.udel.edu/udaily/2010/jun/images/BobSiegler.jpg" height=201px>
+<img src="http://psych.stanford.edu/~jlm/jlm_photo_09_b_compressed.jpg" height=201px>
+<img src="http://www.cnup.pitt.edu/sites/default/files/styles/person_large/public/person-images/simonsw.jpg?itok=nkSNVyBo" height=201px>
+<img src="https://obssr-archive.od.nih.gov/images/adolph.png" height=201px>
+<img src="http://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/dk.groomed.jpg" height=201px>
+<img src="http://2016.hapticssymposium.org/sites/imgs/RobertaKlatzky.png" height=201px>
 
 ## The eye never stops moving
 
@@ -60,7 +53,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Questions and consequences
 
-- Image stabilization, frames of reference, forward models
+- Frames of reference, perceptual stability, forward models
 - Optic flow parsing, self vs. objects
 
 ---
@@ -129,7 +122,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Lessons learned
 
-## CMU ≠
+## CMU ≠ {.build}
 
 <div class="centered">
 <img src="https://3dprint.com/wp-content/uploads/2015/10/2000px-Central_Michigan_University_wordmark.svg_.png" height=450px/>
@@ -147,7 +140,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="img/google-cmu.jpg" height=500px>
 </div>
 
-## Put the emPHAsis on the right sylLABle {.flexbox .vcenter}
+## Put the emPHAsis on the right sylLABle {.flexbox .vcenter .build}
 
 <div class="centered">
 Car**NE**gie Mellon
@@ -165,16 +158,26 @@ Car**NE**gie Mellon
 <img src="http://www.between-us-bilinguals.com/wp-content/uploads/2011/02/SinkOrSwim-300x300.jpg" height=450px>
 </div>
 
+## Ken Koedinger can really hit a softball
+
 ## *This* is 'gradient descent' {.flexbox .vcenter}
 
 <div class="centered">
 <img src="http://perspectives.ratherharmless.org/photo/060108-campus_walkaround-81.JPG" height=500px>
 </div>
 
+## Ken Koedinger can really throw a football
+
 ## ACT-R does not mean {.flexbox .vcenter .bigger}
 
 <div class="centered">
 **A** **C**ognitive **T**heory
+</div>
+
+## Ken Koedinger can...
+
+<div class="centered">
+- So, why can't I?
 </div>
 
 ## MacMail 0.9 was good {.bigger}
