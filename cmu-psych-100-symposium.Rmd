@@ -3,7 +3,7 @@ title: "what-I-learned-at-CMU"
 author: "Rick Gilmore"
 date: "May 16, 2016"
 css: gilmore.css
-
+bibliography: sources.bib
 output: 
   ioslides_presentation:
     widescreen: TRUE
@@ -19,13 +19,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Pittsburgh is a great place to have kids...
 
 <div class="centered">
-<img src="img/deb-ellie.jpg" height=500px>
+<img src="img/6346.jpg" height=500px>
 </div>
 
-## And Happy Valley to raise them
+## And Happy Valley...
 
 <div class="centered">
 <img src="http://www.mtnittanyumc.org/images/DSC_0371.JPG" height=500px>
+</div>
+
+## ...a great place to raise them
+
+<div class="centered">
+<img src="img/deb-ellie.jpg" height=500px>
 </div>
 
 ---
@@ -45,6 +51,57 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="centered">
 <img src="img/gypsy.jpg" height=500px>
 </div>
+
+## The eye never stops moving
+
+<div class="centered">
+<img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mount-doom-the-eye-of-sauron-joe-gilronan.jpg" height=500px>
+</div>
+
+## Questions and consequences
+
+- Image stabilization, frames of reference, forward models
+- Optic flow parsing, self vs. objects
+
+---
+
+<div class="centered">
+<video width="700" height="400" controls>
+  <source src="https://nyu.databrary.org/slot/9802/-/asset/11662/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[[@3ec11976-a692-4e8a-901a-ec196b9ead39]](http://dx.doi.org/10.17910/B7101Z)
+</div>
+
+---
+
+<div class="centered">
+<video width="700" height="400" controls>
+  <source src="https://nyu.databrary.org/slot/8227/0,701010/asset/19089/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[[@dac56ec7-587d-4e9a-8bd0-7bc77caa0f75]](http://dx.doi.org/10.17910/B7.123)
+</div>
+
+---
+
+<div class="centered">
+<video width="700" height="400" controls>
+  <source src="https://nyu.databrary.org/slot/7587/5238957,7101101/asset/16149/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[[@2586d67d-3f7a-4892-8b75-493e2d31b7b0]](http://dx.doi.org/10.17910/B7988V)
+</div>
+
+---
+
+- What are the statistics of natural visual experiences?
+- Do they differ across development?
+- How do they shape behavior?
+- How do they shape the developing brain?
 
 ## Brain imaging is totally tubular
 
@@ -138,16 +195,28 @@ Car**NE**gie Mellon
 
 <iframe src="http://www.cnbc.cmu.edu/graduate-training-mainmenu-66/cnbc-grad-training-program-mainmenu-123"></iframe>
 
+## Psychology is harder than physics {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-1.jpg" width=800px>
+</div>
+
+## Don't have physics envy {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/psych-harder-2.jpg" width=800px>
+</div>
+
 ## CMU ≠ A Typical Psychology Department {.flexbox .vcenter .build}
 
 <div class="centered">
 Be thankful for that. I am.
 </div>
 
-## Science: What a Wonderful Life {.flexbox .vcenter}
+---
 
 <div class="centered">
-Our work is our play.
+<img src="http://images.contentful.com/7h71s48744nc/5qANstFEVqIUy2g88momOe/b9a01a388916163acef50890209262e2/its-a-wonderful-life.jpg" height=500px>
 </div>
 
 ## The Brady Bunch {.flexbox .vcenter}
@@ -290,3 +359,5 @@ That's the way we all became the Baker Bunch.</br>
 <http://databrary.org></br>
 <http://rick-gilmore.com/>
 </div>
+
+---
