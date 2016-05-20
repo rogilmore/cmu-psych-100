@@ -160,6 +160,10 @@ Car**NE**gie Mellon
 
 ## Ken Koedinger can really hit a softball
 
+<div class="centered">
+<img src="http://graphics8.nytimes.com/images/2010/10/31/sports/31giants3/31giants3-blogSpan.jpg" height=500px>
+</div>
+
 ## *This* is 'gradient descent' {.flexbox .vcenter}
 
 <div class="centered">
@@ -167,6 +171,10 @@ Car**NE**gie Mellon
 </div>
 
 ## Ken Koedinger can really throw a football
+
+<div class="centered">
+<img src="http://www.pressherald.com/wp-content/uploads/2014/10/Jets-Patriots-Footbal_Acco1-699x1024.jpg" height=500px>
+</div>
 
 ## ACT-R does not mean {.flexbox .vcenter .bigger}
 
@@ -176,9 +184,8 @@ Car**NE**gie Mellon
 
 ## Ken Koedinger can...
 
-<div class="centered">
-- So, why can't I?
-</div>
+> - He told me so.
+
 
 ## MacMail 0.9 was good {.bigger}
 
