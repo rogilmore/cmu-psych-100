@@ -42,6 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="http://psych.stanford.edu/~jlm/jlm_photo_09_b_compressed.jpg" height=201px>
 <img src="http://www.cnup.pitt.edu/sites/default/files/styles/person_large/public/person-images/simonsw.jpg?itok=nkSNVyBo" height=201px>
 <img src="https://obssr-archive.od.nih.gov/images/adolph.png" height=201px>
+<img src="http://www.cmu.edu/dietrich/psychology/images/directory/images/kotovskyh.jpg" height=201px>
 <img src="http://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/dk.groomed.jpg" height=201px>
 <img src="http://2016.hapticssymposium.org/sites/imgs/RobertaKlatzky.png" height=201px>
 
