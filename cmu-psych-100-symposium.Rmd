@@ -36,15 +36,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<img src="http://www.neuroscience.cam.ac.uk/Uploads/MarkJohnson.jpg" height=201px>
-<img src="http://www.cmu.edu/dietrich/behrmannlab/marlene_behrmann_201x201.jpg">
-<img src="http://www.udel.edu/udaily/2010/jun/images/BobSiegler.jpg" height=201px>
-<img src="http://psych.stanford.edu/~jlm/jlm_photo_09_b_compressed.jpg" height=201px>
-<img src="http://www.cnup.pitt.edu/sites/default/files/styles/person_large/public/person-images/simonsw.jpg?itok=nkSNVyBo" height=201px>
-<img src="https://obssr-archive.od.nih.gov/images/adolph.png" height=201px>
-<img src="http://www.cmu.edu/dietrich/psychology/images/directory/images/kotovskyh.jpg" height=201px>
-<img src="http://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/dk.groomed.jpg" height=201px>
-<img src="http://2016.hapticssymposium.org/sites/imgs/RobertaKlatzky.png" height=201px>
+<div class="centered">
+<img src="http://www.neuroscience.cam.ac.uk/Uploads/MarkJohnson.jpg" height=301px>
+<img src="http://www.cmu.edu/dietrich/behrmannlab/marlene_behrmann_201x201.jpg" height=301px>
+<img src="http://www.udel.edu/udaily/2010/jun/images/BobSiegler.jpg" height=301px>
+<img src="http://psych.stanford.edu/~jlm/jlm_photo_09_b_compressed.jpg" height=301px>
+<img src="http://www.cnup.pitt.edu/sites/default/files/styles/person_large/public/person-images/simonsw.jpg?itok=nkSNVyBo" height=301px>
+</div>
+
+--- 
+
+<div class="centered">
+<img src="https://obssr-archive.od.nih.gov/images/adolph.png" height=301px>
+<img src="http://www.cmu.edu/dietrich/psychology/images/directory/images/kotovskyh.jpg" height=301px>
+<img src="http://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/dk.groomed.jpg" height=301px>
+<img src="http://2016.hapticssymposium.org/sites/imgs/RobertaKlatzky.png" height=301px>
+</div>
 
 ## The eye never stops moving
 
@@ -54,8 +61,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Questions and consequences
 
-- Frames of reference, perceptual stability, forward models
+- Frames of reference for perception, perceptual stability, forward models
 - Optic flow parsing, self vs. objects
+- Individual differences
+
+---
+
+<div class="centered">
+<video width="700" height="400" controls>
+  <source src="https://nyu.databrary.org/slot/9803/-/asset/11178/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[[@370076e1-8922-470c-b9e2-f4dd899260ae]](http://dx.doi.org/10.17910/B7Z593)
 
 ---
 
@@ -72,7 +90,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="centered">
 <video width="700" height="400" controls>
-  <source src="https://nyu.databrary.org/slot/8227/0,701010/asset/19089/download?inline=true" type="video/mp4">
+  <source src="https://nyu.databrary.org/slot/8237/-/asset/22941/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+[[@dac56ec7-587d-4e9a-8bd0-7bc77caa0f75]](http://dx.doi.org/10.17910/B7.123)
+</div>
+
+---
+
+<div class="centered">
+<video width="700" height="400" controls>
+  <source src="https://nyu.databrary.org/slot/8237/-/asset/22942/download?inline=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -116,6 +145,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ---
 
 <iframe src="http://databrary.org"></iframe>
+
+---
+
+<div class="centered">
+<img src="https://s-media-cache-ak0.pinimg.com/736x/4d/11/0e/4d110ee6491a516425a8d589e573c603.jpg" height=500px>
+</div>
 
 ## Help us build the future...
 
@@ -185,8 +220,8 @@ Car**NE**gie Mellon
 
 ## Ken Koedinger can...
 
-> - He told me so.
-
+> - Land some big-a$$ grants.
+> - Help me make Databrary's UI/UX better.
 
 ## MacMail 0.9 was good {.bigger}
 
@@ -196,11 +231,11 @@ Car**NE**gie Mellon
 ## Avoid holy wars
 
 - GUI vs. command line
-- Mac vs. Windows vs. *nix
-- Blue state vs. Red state
-- Nativism vs. empiricism
-- Python vs. R
-- JavaScript vs. a real language
+> - Mac vs. Windows vs. *nix
+> - Blue state vs. Red state
+> - Nativism vs. empiricism
+> - Python vs. R
+> - JavaScript vs. a real language
 
 ## From simple beginnings...
 
@@ -223,6 +258,11 @@ Car**NE**gie Mellon
 <div class="centered">
 Be thankful for that. I am.
 </div>
+
+## "But what does that tell us about development?" -- R. Siegler
+
+> - "But moles make molehills!" -- H. Simon
+> - Ask (and answer) the *deeper* question
 
 ---
 
