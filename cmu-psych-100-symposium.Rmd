@@ -1,7 +1,7 @@
 ---
 title: "what-I-learned-at-CMU"
 author: "Rick Gilmore"
-date: "May 16, 2016"
+date: "`r Sys.Date()`"
 css: gilmore.css
 bibliography: sources.bib
 output: 
@@ -13,8 +13,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-## A (short) walk down memory lane...
 
 ## Pittsburgh is a great place to have kids...
 
@@ -221,7 +219,7 @@ Car**NE**gie Mellon
 ## Ken Koedinger can...
 
 > - Land some big-a$$ grants.
-> - Help me make Databrary's UI/UX better.
+> - Help me make Databrary's UI/UX better!
 
 ## MacMail 0.9 was good {.bigger}
 
@@ -230,7 +228,7 @@ Car**NE**gie Mellon
 
 ## Avoid holy wars
 
-- GUI vs. command line
+> - GUI vs. command line
 > - Mac vs. Windows vs. *nix
 > - Blue state vs. Red state
 > - Nativism vs. empiricism
@@ -323,7 +321,7 @@ All the models had their productions.</br>
 <div class="centered">
 **Here's the story, of SOARing frameworks**</br>
 that were 'splainin' cognition on their own.</br>
-Just ACT-Rs in a play for Bobby Klatzky.</br>
+Just ACT-Rs in a play for Klahr and Klatzky.</br>
 But, they were all alone.</br>
 </div>
 
@@ -332,7 +330,7 @@ But, they were all alone.</br>
 <div class="centered">
 Here's the story, of SOARing frameworks</br>
 **that were 'splainin' cognition on their own.**</br>
-Just ACT-Rs in a play for Bobby Klatzky.</br>
+Just ACT-Rs in a play for Klahr and Klatzky.</br>
 But, they were all alone.</br>
 </div>
 
@@ -341,7 +339,7 @@ But, they were all alone.</br>
 <div class="centered">
 Here's the story, of SOARing frameworks</br>
 that were 'splainin' cognition on their own.</br>
-**Just ACT-Rs in a play for Bobby Klatzky.**</br>
+**Just ACT-Rs in a play for Klahr and Klatzky.**</br>
 But, they were all alone.</br>
 </div>
 
@@ -350,7 +348,7 @@ But, they were all alone.</br>
 <div class="centered">
 Here's the story, of SOARing frameworks</br>
 that were 'splainin' cognition on their own.</br>
-Just ACT-Rs in a play for Bobby Klatzky.</br>
+Just ACT-Rs in a play for Klahr and Klatzky.</br>
 **But, they were all alone.**</br>
 </div>
 
