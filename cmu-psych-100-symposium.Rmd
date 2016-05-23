@@ -49,6 +49,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="http://www.cmu.edu/dietrich/psychology/images/directory/images/kotovskyh.jpg" height=301px>
 <img src="http://www.ewa.org/sites/main/files/imagecache/lightbox/main-images/dk.groomed.jpg" height=301px>
 <img src="http://2016.hapticssymposium.org/sites/imgs/RobertaKlatzky.png" height=301px>
+<img src="https://www.andrew.cmu.edu/user/jh50/dick.hayes.GIF" height=301px>
 </div>
 
 ## The eye never stops moving
@@ -56,12 +57,6 @@ knitr::opts_chunk$set(echo = FALSE)
 <div class="centered">
 <img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mount-doom-the-eye-of-sauron-joe-gilronan.jpg" height=500px>
 </div>
-
-## Questions and consequences
-
-- Frames of reference for perception, perceptual stability, forward models
-- Optic flow parsing, self vs. objects
-- Individual differences
 
 ---
 
@@ -215,11 +210,6 @@ Car**NE**gie Mellon
 <div class="centered">
 **A** **C**ognitive **T**heory
 </div>
-
-## Ken Koedinger can...
-
-> - Land some big-a$$ grants.
-> - Help me make Databrary's UI/UX better!
 
 ## MacMail 0.9 was good {.bigger}
 
